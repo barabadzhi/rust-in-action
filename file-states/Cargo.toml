@@ -1,0 +1,6 @@
+[package]
+name = "file-states"
+version = "0.1.0"
+authors = ["Bogdan Arabadzhi <barabadzhi@iba.by>"]
+
+[dependencies]
