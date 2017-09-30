@@ -1,0 +1,6 @@
+[package]
+name = "not-quite-file-2"
+version = "0.1.0"
+authors = ["Bogdan Arabadzhi <barabadzhi@iba.by>"]
+
+[dependencies]
