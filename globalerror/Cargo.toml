@@ -1,0 +1,7 @@
+[package]
+authors = ["Bogdan Arabadzhi <barabadzhi@iba.by>"]
+name = "globalerror"
+version = "0.1.0"
+
+[dependencies]
+rand = "0.3.16"
