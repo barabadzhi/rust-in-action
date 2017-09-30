@@ -1,0 +1,6 @@
+[package]
+name = "defining-files-neatly"
+version = "0.1.0"
+authors = ["Bogdan Arabadzhi <barabadzhi@iba.by>"]
+
+[dependencies]
