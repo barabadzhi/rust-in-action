@@ -1,0 +1,6 @@
+[package]
+name = "skeleton-read-trait"
+version = "0.1.0"
+authors = ["Bogdan Arabadzhi <barabadzhi@iba.by>"]
+
+[dependencies]
