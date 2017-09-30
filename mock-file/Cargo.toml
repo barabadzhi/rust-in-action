@@ -1,0 +1,6 @@
+[package]
+name = "mock-file"
+version = "0.1.0"
+authors = ["Bogdan Arabadzhi <barabadzhi@iba.by>"]
+
+[dependencies]
