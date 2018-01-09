@@ -1,0 +1,6 @@
+[package]
+name = "floating_point_value_deconstruction"
+version = "0.1.0"
+authors = ["Bogdan Arabadzhi <bogdan.today@gmail.com>"]
+
+[dependencies]

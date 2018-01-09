@@ -1,0 +1,6 @@
+[package]
+name = "f32-random-generator"
+version = "0.1.0"
+authors = ["Bogdan Arabadzhi <bogdan.today@gmail.com>"]
+
+[dependencies]
