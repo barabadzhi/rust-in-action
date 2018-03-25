@@ -1,0 +1,9 @@
+[package]
+name = "particles"
+version = "0.1.0"
+authors = ["Bogdan Arabadzhi <bogdan.today@gmail.com>"]
+
+[dependencies]
+piston_window = "0.77.0"
+rand = "0.4.2"
+piston2d-graphics = "0.26.0"
